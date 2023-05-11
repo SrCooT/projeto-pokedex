@@ -7,3 +7,64 @@
     font-family: 'Raleway', sans-serif;
 
 }
+body {
+    background-color: #908F8E;
+    text-align: center;
+    margin-left: 15px;
+}
+
+
+header {
+    text-align: center;
+}
+.logo {
+    max-width: 20px;
+    margin-left: 100px;
+}
+#botao-alterar-tema{
+    background-color: #908F8E;
+    border: none;
+}
+.imagem-botão {
+
+    max-width: 20px;
+    margin-left: 400px;
+}
+main {
+    width: 500px;
+    border: 1px solid black;
+    display: flex;
+
+}
+
+.informações {
+
+text-align: 2em ;
+}
+
+.tipo-grama {
+    background-color: green;
+    border: 2px solid black;
+    width: 50px;
+}
+.tipo-agua {
+    background-color: rgb(130, 166, 234);
+    border: 2px solid black;
+    width: 50px ;
+    border-radius: 5px;
+}
+.tipo-fogo {
+   
+    background-color: red;
+    border: 2px solid black;
+    width: 50px;
+    border-radius: 5px;
+
+}
+.tipo-veneno {
+    background-color: rgb(204, 129, 217);
+    border: 2px solid black;
+    width: 50px;
+    border-radius: 5px;
+
+}
