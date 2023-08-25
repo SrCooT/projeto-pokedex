@@ -3,8 +3,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
 
-* {
-    
+* { 
     margin: 0px;
     padding: 0px;
     box-sizing: border-box; 
@@ -56,17 +55,14 @@ header #botao-alterar-tema{
 }
 
 main {
-    
     padding: 25px;
- 
 }
 
 main .listagem-pokemon {
     display: flex;   
     flex-wrap: wrap;
     gap: 30px;
-    justify-content: center;
-    
+    justify-content: center;   
 }
 
 ul {
