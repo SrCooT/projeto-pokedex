@@ -12,10 +12,10 @@ if(modoEscuroEstaAtivo) {
  
     // body.classList.remove("modo-escuro");
 
-    imagemBotaoTrocaDeTema.setAttribute("src","./imagem/sun.png");
+    imagemBotaoTrocaDeTema.setAttribute("src","src/imagem/sun.png");
 } else {
     // body.classList.add("modo-escuro");
-    imagemBotaoTrocaDeTema.setAttribute("src","./imagem/moon.png");
+    imagemBotaoTrocaDeTema.setAttribute("src","src/imagem/moon.png");
     
 }
 

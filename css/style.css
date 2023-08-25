@@ -12,7 +12,7 @@
 body {
     height: 100vh;
     font-family: 'Comfortaa', cursive;
-    background:black url(/imagem/pokered.png) center center no-repeat;
+    background:black url(../src/imagem/pokered.png) center center no-repeat;
     background-size: cover;
     height: 100%;
     color: #f5f3f3;
@@ -22,7 +22,7 @@ body {
 
 body.modo-escuro{
     height: 100vh;
-    background: black url(/imagem/assh.png) center center no-repeat;
+    background: black url(../src/imagem/assh.png) center center no-repeat;
     background-size: cover;
     color:#070606;
     max-width: 1280px;
